@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Caroline Rodrigues de Oliveira</h1>
 <h3 align="center">A passionate developer student from Brazil</h3>
 
-- 🔭 I’m currently working on **Compasso**
-
 - :woman_student: My portfolio [https://cacaurodrigues.github.io](https://cacaurodrigues.github.io)
 
 - 🌱 I’m currently learning **Data Base**
